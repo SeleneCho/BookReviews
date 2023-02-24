@@ -1,5 +1,7 @@
-# Book Reviews
+# Book Reviews 
+[Live Demo](https://bookreviews-selenecho.netlify.app)
 #### This is a simple website where users can share book reviews and reading recommendations
+
 
 ![_Book_Reviews](https://user-images.githubusercontent.com/84310302/212539315-b78ddb02-d4da-431b-97bd-942c5121ac17.png)
 
@@ -11,7 +13,6 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 ## Recommended IDE Setup
 
 - [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
-
 
 
 
